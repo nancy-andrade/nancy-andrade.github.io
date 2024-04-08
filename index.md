@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [A Year in Sales - The DashDoor Project](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
+[<img src="images/P2_DoorDash.jpg"/>](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
 I was intrigued to delve into the world of data analytics and explore one of the most popular platforms: DoorDash.
 
 
