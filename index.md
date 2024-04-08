@@ -14,18 +14,18 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+#### [A Year in Sales - The DashDoor Project](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
+I was intrigued to delve into the world of data analytics and explore one of the most popular platforms: DoorDash.
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Education Project](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
+[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
-What are the top math schools in the state? 
+Which school districts are passing fourth grade math? 
 
 ---
 
