@@ -6,7 +6,7 @@
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+I'm a data analytics enthusiast and I'm eager to learn, find insights and create compelling dashboards that will help improve decision making.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
@@ -21,7 +21,7 @@ I was intrigued to delve into the world of data analytics and explore one of the
 
 ---
 #### [Education Project](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
+[<img src="images/P3_Education.jpg"/>](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
