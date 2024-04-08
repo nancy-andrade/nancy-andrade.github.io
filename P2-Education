@@ -1,0 +1,47 @@
+## This can be a template for an internal prject
+
+**Deciphering Massachusetts Education: Unveiling Insights and Trends** 
+
+Education, the cornerstone of societal progress, remains a dynamic arena shaped by myriad factors. With a wealth of data at my disposal from the Massachusetts Education Department, I embarked on a journey to unravel the intricacies of education within the state. Spanning 1,861 schools and encompassing data on 964,748 enrolled students, this dataset provided a comprehensive canvas upon which to paint a picture of educational dynamics.
+
+So, why this project?
+* With the landscape of public education constantly evolving, I sought to delve into the data to discern patterns and trends that could inform strategic decisions and drive positive change.
+* My curiosity led me to explore the factors influencing college attendance rates, with a particular focus on classroom size and its impact on student outcomes.
+
+Using Tableau, here are some of the findings shown in the dashboard:
+* Larger class sizes were surprisingly associated with higher college attendance rates, challenging preconceived notions about the optimal learning environment.
+* Out of the 100 school districts in Massachusetts, analysis revealed that only 4%  surpassed the 50% mark on the MCAS exam, highlighting pervasive challenges within the education system.
+* Economically disadvantaged schools emerged as a significant factor influencing college attendance rates, prompting further investigation into disparities in educational opportunities.
+
+The dataset utilized in this analysis originates from the Massachusetts Education Department and encompasses data from the year 2018.
+
+Key variables include the school names, students enrolled per school, per class, and some of their demographic. Also, the approval rate of each class and grade.
+
+Each row represents the data of one individual school, providing granular insights into their performance.
+
+As the analysis unfolded, several key findings emerged. Despite widespread beliefs in the efficacy of small classrooms, my examination revealed that medium to large class sizes exhibited higher college attendance rates. This revelation defies traditional notions and prompts a reevaluation of pedagogical practices.
+
+Furthermore, the analysis shed light on the performance of school districts across the state. Alarmingly, only four out of 100 districts surpassed the 50% mark on the MCAS exam, highlighting pervasive challenges within the education system. Additionally, the role of economically disadvantaged schools in shaping college attendance rates emerged as a crucial factor warranting further investigation.
+
+In unraveling the enigma of classroom size and its impact on educational outcomes, this analysis sparks important conversations within the educational community. As educators, policymakers, and stakeholders grapple with the implications of these findings, opportunities for meaningful change abound.
+
+
+Thank you for taking the time to explore this analysis. If you have any questions or insights to share, please feel free to comment below or connect with me on LinkedIn. Together, let's continue to explore the vast landscape of data analytics and drive positive change in the realm of public education.
+
+Note: This article is part of an educational assignment in my Data Analytics Bootcamp. The actual dataset and findings presented are for illustrative purposes only.
+
+Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
+
+### 1. You can have sections and text.
+
+Just like this. And you can even add internal coding blocks
+
+```python
+print('this is the python code I used to solve this problem')
+```
+
+### 2. You can add any images you'd like. 
+
+<img src="images/P3_Education.jpg"/>
+
+
