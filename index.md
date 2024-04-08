@@ -9,14 +9,9 @@
 I'm a data analytics enthusiast and I'm eager to learn, find insights and create compelling dashboards that will help improve decision making.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
 #### [A Year in Sales - The DashDoor Project](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
 [<img src="images/P2_DoorDash.jpg"/>](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
-I was intrigued to delve into the world of data analytics and explore one of the most popular platforms: DoorDash.
+I was intrigued to delve into the world of data analytics and explore one of the most popular platforms: **DoorDash.**
 
 
 ---
