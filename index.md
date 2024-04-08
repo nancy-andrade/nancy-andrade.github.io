@@ -15,7 +15,7 @@ I was intrigued to delve into the world of data analytics and explore one of the
 
 
 ---
-#### [Education Project](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
+#### [Education Project](P2-Education)
 [<img src="images/P3_Education.jpg"/>](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
