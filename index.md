@@ -15,8 +15,8 @@ I was intrigued to delve into the world of data analytics and explore one of the
 
 
 ---
-#### [Education Project](https://public.tableau.com/app/profile/nancy.andrade/viz/4thGradeMath_17117674487310/4thGradeMath)
-[<img src="images/P3_Education.jpg"/>](https://www.loom.com/share/5843062b022748e087d1c8ade7442c40?sid=7c995a7f-f05b-4fe6-85fe-c08164a0ffc9)
+#### [Education Project](https://www.linkedin.com/pulse/deciphering-massachusetts-education-unveiling-trends-andrade-aguilar-9ukhe/)
+[<img src="images/P3_Education.jpg"/>](https://www.linkedin.com/pulse/deciphering-massachusetts-education-unveiling-trends-andrade-aguilar-9ukhe/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
