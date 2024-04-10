@@ -15,7 +15,7 @@ I was intrigued to delve into the world of data analytics and explore one of the
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/deciphering-massachusetts-education-unveiling-trends-andrade-aguilar-9ukhe/)
+#### [Education Project](https://www.linkedin.com/pulse/deciphering-massachusetts-education-unveiling-trends-andrade-aguilar-9ukhe/?trackingId=ry5csWANTqyeeZmvsGaSYg%3D%3D)
 [<img src="images/P3_Education.jpg"/>](https://www.linkedin.com/pulse/deciphering-massachusetts-education-unveiling-trends-andrade-aguilar-9ukhe/)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
