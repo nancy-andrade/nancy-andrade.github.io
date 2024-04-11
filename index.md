@@ -23,6 +23,11 @@ How does class size affect college admission?
 Which school districts are passing fourth grade math? 
 
 ---
+#### [Exploring World Bank's Transactions & Loans](/bank)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I'm a data analytics enthusiast and I'm eager to learn, find insights and create compelling dashboards that will help improve decision making.
+
+---
 
 ### Category Name 2
 
