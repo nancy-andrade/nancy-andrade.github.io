@@ -4,7 +4,6 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 I'm a data analytics enthusiast and I'm eager to learn, find insights and create compelling dashboards that will help improve decision making.
 
