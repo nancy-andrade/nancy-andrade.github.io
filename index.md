@@ -27,9 +27,12 @@ Which school districts are passing fourth grade math?
 Armed with data from the World Bank's November 2022 records, I embarked on a journey to unravel the mysteries of international lending and grants, shedding light on financial trends and patterns that shape our global economy.
 ---
 
-### Category Name 2
+#### [Navigating Diabetes Care: Optimizing Patient Outcomes](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
+[<img src="images/Cover_Health.jpg"/>](https://www.linkedin.com/pulse/doordash-project-analyzing-sales-year-nancy-andrade-aguilar-ho9pc/)
+Using data from over a decade and 130 US hospitals, I set out to understand why some diabetic patients end up back in the hospital soon after leaving.
 
-- [Project 1 Title](http://example.com/)
+---
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
