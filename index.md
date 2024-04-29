@@ -23,7 +23,7 @@ Which school districts are passing fourth grade math?
 
 ---
 #### [Exploring World Bank's Transactions & Loans](/files/The Finance Project_Nancy Andrade.pdf)
-<img src="images/Finance_1.jpg"/>(/files/The Finance Project_Nancy Andrade.pdf)
+<img src="images/Finance_1.jpg"/>
 Armed with data from the World Bank's November 2022 records, I embarked on a journey to unravel the mysteries of international lending and grants, shedding light on financial trends and patterns that shape our global economy.
 ---
 
