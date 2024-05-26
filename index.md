@@ -34,7 +34,7 @@ Using data from over a decade and 130 US hospitals, I set out to understand why 
 ---
 
 #### [Insights from the Court: Analyzing 2021-22 NBA Player Stats](https://https://www.linkedin.com/pulse/insights-from-court-analyzing-2021-22-nba-player-andrade-aguilar-bvzue/?trackingId=yWMODjOFQ3%2BH4eipDSmdxQ%3D%3D)
-[<img src="images/Cover_Health.jpg"/>](https://www.linkedin.com/pulse/navigating-diabetes-care-optimizing-patient-outcomes-andrade-aguilar-twcje/?trackingId=TdajPE2rR6Szz0UEv7bIEA%3D%3D)
+[<img src="images/Cover_NBA_P2_GitHub.jpg"/>](https://www.linkedin.com/pulse/navigating-diabetes-care-optimizing-patient-outcomes-andrade-aguilar-twcje/?trackingId=TdajPE2rR6Szz0UEv7bIEA%3D%3D)
 In the fast-paced world of professional basketball, data analytics plays an increasingly vital role in understanding player performance and guiding strategic decisions for teams.
 
 ---
