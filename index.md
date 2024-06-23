@@ -39,11 +39,9 @@ In the fast-paced world of professional basketball, data analytics plays an incr
 
 ---
 
-
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+#### [Unveiling the Secrets Behind Employee Attrition at IBM](/files/HR-Analytics-Project.pdf)
+<img src="images/Finance_1.jpg"/>
+In this project, I analyze the factors behind employee attrition at IBM using R and advanced statistical techniques. By examining a comprehensive HR dataset, I uncover key insights into the demographics and job-related attributes contributing to turnover.
 
 ---
 
