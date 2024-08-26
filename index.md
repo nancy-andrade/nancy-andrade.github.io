@@ -39,6 +39,12 @@ In the fast-paced world of professional basketball, data analytics plays an incr
 
 ---
 
+#### [Iron Ore Mining Data Analysis Project with Python](https://www.linkedin.com/pulse/iron-ore-mining-data-analysis-project-python-nancy-andrade-aguilar-kmzge/?trackingId=U%2BDt%2Fa%2BJRq2xb4UWphNH%2Fg%3D%3D)
+[<img src="images/Cover_Mining_GitHub.jpg"/>](https://www.linkedin.com/pulse/iron-ore-mining-data-analysis-project-python-nancy-andrade-aguilar-kmzge/?trackingId=U%2BDt%2Fa%2BJRq2xb4UWphNH%2Fg%3D%3D)
+In this project, I worked as a data analyst for a mining company aiming to optimize their flotation process used for iron ore beneficiation.
+
+---
+
 #### [Unveiling the Secrets Behind Employee Attrition at IBM](/files/HR-Analytics-Project.pdf)
 <img src="images/Office-IBM.webp"/>
 In this project, I analyze the factors behind employee attrition at IBM using R and advanced statistical techniques. By examining a comprehensive HR dataset, I uncover key insights into the demographics and job-related attributes contributing to turnover.
